@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋 I'm Ashok V
 
-<!--
-**ashokv22/ashokv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | 💻 Full-Stack Developer | 🌟 Tech Enthusiast
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building robust software solutions and exploring cutting-edge technologies. With a background in Computer Science and Engineering, I thrive in dynamic environments where I can leverage my skills to solve complex problems.
+
+### Skills
+
+👨‍💻 Programming: Python, Java, JavaScript, TypeScript, C++, C, R, Dart  
+🌐 Web Development: HTML, CSS, jQuery, Angular, Flask, Django, Spring Boot  
+📊 Data: MySQL, NoSQL, MongoDB, Big Data, NLP, ML  
+☁️ Cloud: AWS, Docker, CI/CD  
+🎨 Design: Photoshop, UI/UX, Figma  
+🛠️ Tools: Git, Node.js  
+
+
+### Let's Connect 🤝
+
+Feel free to reach out to me on [LinkedIn](http://www.linkedin.com/in/ashok-mv) for collaborations or discussions on tech and software development. I'm always open to new opportunities and challenges!
+
