@@ -15,7 +15,7 @@ I'm passionate about building robust software solutions and exploring cutting-ed
 🎨 Design: Photoshop, UI/UX, Figma  
 🛠️ Tools: Git, Node.js  
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashokv22&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashokv22&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokv22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
