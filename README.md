@@ -3,6 +3,7 @@
 🚀 Software Engineer | 💻 Full-Stack Developer | 🌟 Tech Enthusiast
 
 <img src="https://raw.githubusercontent.com/ashokv22/ashokv22/output/snake.svg" alt="Snake animation" />
+
 ###
 
 ### About Me
