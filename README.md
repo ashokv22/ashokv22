@@ -2,10 +2,6 @@
 
 🚀 Software Engineer | 💻 Full-Stack Developer | 🌟 Tech Enthusiast
 
-<img src="https://raw.githubusercontent.com/ashokv22/ashokv22/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### About Me
 
 I'm passionate about building robust software solutions and exploring cutting-edge technologies. With a background in Computer Science and Engineering, I thrive in dynamic environments where I can leverage my skills to solve complex problems.
