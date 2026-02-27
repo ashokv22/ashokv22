@@ -20,6 +20,9 @@ I'm passionate about building robust software solutions and exploring cutting-ed
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashokv22&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokv22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
 ### Let's Connect 🤝
 
 Feel free to reach out to me on [LinkedIn](http://www.linkedin.com/in/ashok-mv) for collaborations or discussions on tech and software development. I'm always open to new opportunities and challenges!
